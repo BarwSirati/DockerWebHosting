@@ -220,7 +220,7 @@ mongo -u spaAdmin -p --authenticationDatabase ceboostup
 
 Mongo Connect (Node Application)
 ```bash
-mongodb%3A%2F%2FspaAdmin%3A123456789%40192.7.10.82%3A27018%2Fceboostup%3FauthSource%3Dceboostup
+mongodb://spaAdmin:123456789@192.7.10.82:27018/ceboostup?authSource=ceboostup
 ```
 
 FRONTEND
